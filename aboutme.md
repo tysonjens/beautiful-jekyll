@@ -4,7 +4,7 @@ title: About me
 subtitle: A few things
 ---
 
-In 2014, while working for a predictive analytics startup called Custora I was introduced to coding through R. The data scientists there were incredibly gracious and took time to teach me about several machine learning algorithm we employed in our tool.
+In 2014, while working for a predictive analytics startup called Custora I was introduced to coding through R. The data scientists there were incredibly gracious and took time to teach me about several machine learning algorithms we employed in our tool.
 
 Since then I've continued to study R, Python, and machine learning through MOOCs and bootcamps. I'm interested in applying the tools in value-based healthcare provider settings.
 
