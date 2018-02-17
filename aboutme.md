@@ -12,8 +12,8 @@ I live in Denver, CO, with my wife, Kelli, and my two children, Alpha and Boone.
 
 ### my history
 
-2005  Chicago - Operations at DealerSocket
-2010  Chicago - Northwestern, Kellogg School of Management
-2012  NYC - Citibank products and marketing
-2014  NYC - Customer Success at Custora
-2016  Denver - DaVita Medical Group
+- 2005  Chicago - Operations at DealerSocket
+- 2010  Chicago - Northwestern, Kellogg School of Management
+- 2012  NYC - Citibank products and marketing
+- 2014  NYC - Customer Success at Custora
+- 2016  Denver - DaVita Medical Group
