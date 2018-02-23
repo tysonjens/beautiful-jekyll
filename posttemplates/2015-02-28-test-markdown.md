@@ -1,23 +1,15 @@
 ---
 layout: post
-title: Galvanize Data Immersive - First Days
-subtitle:
-tags: [galvanize]
+title: Test markdown
+subtitle: Each post also has a subtitle
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
 ---
 
-Week one of Galvanize Data Immersive is coming to a close, and several unknowns have been answered:
+You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
-**What will you learn?**
-Command Line, Git, Unit testing, Python syntax, OOP (classes and objects), PostgresQL.
-
-**Who will be in your class?**
-All sorts of people - lots of programmers, a few PhDs (one who actually wrote his thesis on how to computationally speed up machine learning algorithms like gradient descent), one incredibly smart guy who dropped out of a 4-year degree because it was wasteful of his time. Everyone brings something a little bit different.
-
-**What is the teaching format?**
-
-| 9 am | 11 am | 1 pm | 2 pm | 4 pm | 6 pm | 8 pm | 11 pm |
-| :------ |:--- | :--- |:---|:-----|:-----|:-----|:----|
-| Lecture | Program | Lunch/Workout | Lecture | Program | Go home | Program | Bed |
+**Here is some bold text**
 
 ## Here is a secondary heading
 
