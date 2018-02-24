@@ -5,77 +5,42 @@ subtitle:
 tags: [galvanize]
 ---
 
-Week one of Galvanize Data Immersive is coming to a close, and several unknowns have been answered:
+Week one of my 12-week data science program with Galvanize is officially in the books. Going in I had two main concerns:
+* [Big] will I be able to keep up with all the "real" coders as we dive into Python?
+* [Small] will this be challenging enough?
 
-**What will you learn?**
-Command Line, Git, Unit testing, Python syntax, OOP (classes and objects), PostgresQL.
+Big take away: aspiring data scientists come from so many different backgrounds that everyone in the class (myself included) felt comfortable at times and very uncomfortable at times. Overall I've been extremely impressed with the others in my class - and have had several opportunities to learn from them, and few opportunities when I could contribute as well.
 
-**Who will be in your class?**
-All sorts of people - lots of programmers, a few PhDs (one who actually wrote his thesis on how to computationally speed up machine learning algorithms like gradient descent), one incredibly smart guy who dropped out of a 4-year degree because it was wasteful of his time. Everyone brings something a little bit different.
+The first week was focused on learning the **tools** of data science. Topics included:
 
-**What is the teaching format?**
+Thing    | What it's good for
+---------|--------------------
+Command Line | Navigating your computer and running programs
+Git  | Version control for coders. How to code in teams
+Unit test | Coding with the end in mind - testing your
+Python | Where the magic happens - classes and objects
+PostgresQL | How data is stored, and how to query it
+Psycopg2 | Querying data from a python python_script
+Mongodb | How to store less structured data in a structured way :-)
+Pymongo | Querying data from python
 
-| 9 am | 11 am | 1 pm | 2 pm | 4 pm | 6 pm | 8 pm | 11 pm |
-| :------ |:--- | :--- |:---|:-----|:-----|:-----|:----|
-| Lecture | Program | Lunch/Workout | Lecture | Program | Go home | Program | Bed |
+### What can I use at DMG?
 
-## Here is a secondary heading
+Until now my typical workflow on a data project has been to dump data from SQL into a csv, upload it to R or Python to do all the cleaning, do some modeling, and then spit out clean data to excel or Tableau.
 
-Here's a useless table:
+I learned A TON about SQL this week, so I can now pull *just the data I need* directly from a Python script. What's more, I could share that code with others in the business via github, and build code together using git. Finally, while I had learned Python for working with data, I made good strides toward being a believable coder - meaning that data projects I build going forward will better interface with our data warehouses / data teams.
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+### Typical Day
 
+* 08:30 - arrive and download lectures/data sets from Github
+* 09:30 - Morning lecture begins
+* 11:00 - Begin individual assignment
+* 13:30 - Quick bite
+* 14:00 - LECTURE
+* 16:00 - begin pair programming assignments
+* 18:30 - finish pair programming, head home
+* 21:00 - write notes for the day, do pre-reading for following day
 
-How about a yummy crepe?
+### Next Week
 
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+We begin a more conceptual dive into statistics and Python structures useful for data, like Python Pandas.  
