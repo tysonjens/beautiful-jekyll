@@ -9,7 +9,7 @@ Week one of my 12-week data science program with Galvanize is officially in the 
 * [Big] will I be able to keep up with all the "real" coders as we dive into Python?
 * [Small] will this be challenging enough?
 
-Big take away: aspiring data scientists come from so many different backgrounds that everyone in the class (myself included) felt comfortable at times and very uncomfortable at times. Overall I've been extremely impressed with the others in my class - and have had several opportunities to learn from them, and few opportunities when I could contribute as well.
+Big take away: aspiring data scientists come from so many different backgrounds that everyone in the class (myself included) felt comfortable at times and very uncomfortable at times. Overall I've been impressed with the others in my class and have had several opportunities to learn from them.
 
 The first week was focused on learning the **tools** of data science. Topics included:
 
