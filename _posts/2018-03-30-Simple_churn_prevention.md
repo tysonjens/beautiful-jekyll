@@ -19,7 +19,9 @@ Steps:
 5. Provide a "winback offer" to the test group.
 6. At the end of the time (or when the populations in test and control provide enough power for a hypothesis test), evaluate the model's predictive power and the offer's ability to win customers back.
 
-<img alt="intro" src="img/Predicted Churn.png" width='500'>
+___
+
+<img alt="intro" src="/img/Predicted Churn.png" width='500'>
 
 
 
@@ -40,7 +42,7 @@ Steps:
  * Customers are already churning, so if our algorithm misses a customer who is churning, there is "no harm done".  This leads us to look for a precise algorith - one that, when it predicts some is churning, it is generally correct.
 
 __precision__ is our target score metric:
- -  many people will churn, so we don't care about getting all of them, but of the people we think are churning, we want to predict correctly so we don't waste incentive funds.
+ * many people will churn - we don't care about getting all of them (for now). However, among riders we think are churning we want to predict correctly so we don't waste incentive funds.
 
  *If the model is working well, and the offer is winning customers back, we could adjust this - but we need more information first.*
 
