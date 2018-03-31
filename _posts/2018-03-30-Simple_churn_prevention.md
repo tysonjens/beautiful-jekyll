@@ -21,7 +21,7 @@ Steps:
 
 ___
 
-<img alt="intro" src="/img/Predicted Churn.png" width='500'>
+![image](https://github.com/tysonjens/tysonjens.github.io/blob/master/img/Predicted%20Churn.png?raw=true)
 
 
 
@@ -82,31 +82,31 @@ pick by last active day
 
 ##### Feature Importances with Gradient Boost
 
-<img alt="partial depend" src="img/feature importance gb rf.png" width='500'>
+![image](https://github.com/tysonjens/tysonjens.github.io/blob/master/img/feature%20importance%20gb%20rf.png?raw=true)
 
 ##### Partial dependency plots from Gradient Boost
-<img alt="partial depend" src="img/partial_d_6.png" width='500'>
+![image](https://github.com/tysonjens/tysonjens.github.io/blob/master/img/partial_d_6.png?raw=true)
 
 ___
 
-<img alt="roc curve" src="img/roc_6models.png" width='500'>
+![image](https://github.com/tysonjens/tysonjens.github.io/blob/master/img/roc_6models.png?raw=true)
 
 *We chose the model that kept the lowest "False Positive Rate" for corresponding values of "True Positive Rate". This helps us find the model with the best precision, important for ensuring we identify customers that are actually churning.*
 
 ___
 
-<img alt="intro" src="img/Predicted Churn (1).png" width='500'>
+![image](https://github.com/tysonjens/tysonjens.github.io/blob/master/img/Predicted%20Churn%20(1).png?raw=true)
 
 *Intuitively, customers drift toward "churning" as time since their last trip elapses, but they do so at different rates. Our model helps marketers determine when a particular customer reaches a specific "likelihood of churn" threshold.*
 
 ___
 
-<img alt="intro" src="img/Predicted Churn (2).png" width='500'>
+![image](https://github.com/tysonjens/tysonjens.github.io/blob/master/img/Predicted%20Churn%20(2).png?raw=true)
 
 *A controlled experiment sorts customers into 3 groups each week. Once customers eclipse the 80% threshold, they are randomly placed into a test or control group.*
 
 ___
 
-<img alt="intro" src="img/Predicted Churn (3).png" width='500'>
+![image](https://github.com/tysonjens/tysonjens.github.io/blob/master/img/Predicted%20Churn%20(3).png?raw=true)
 
 *The design allows for testing the model's predictions, as well as whether the winback offer is effective. After testing test two hypotheses, we could adjust according to what we learn.*
